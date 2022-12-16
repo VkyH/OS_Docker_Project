@@ -1,6 +1,12 @@
 # todoapp
  Quick And Easy To Use, Anytime, Anywhere! "Plan Your Day Better,Get Your Life Organized" Helps You Keep Track Of Your Tasks
 
+Team Members:
+1MS20CS139 Vikas Hajjarge
+1MS20CS126 Tanveer V
+1MS20CS140 Vinayak Vittal Divate
+1MS20CS141 Vishnu Patel
+
 • to build the image for the execution environment of our dbms project
 we add a tag name so that we can easily identify our image with a name 
 
